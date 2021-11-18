@@ -2,6 +2,7 @@
 
 *some useful projects, but most not*
 
-👋 Hi, I’m Erik aka @CodeArgyle
+Most of the repos found here are projects created to practice programming and learn new languages, so there may be some goofy code here ¯\_(ツ)_/¯
+
 
 
